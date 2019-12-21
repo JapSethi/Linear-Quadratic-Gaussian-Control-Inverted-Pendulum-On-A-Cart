@@ -1,6 +1,6 @@
 # Kalman-Filter-Estimation-Inverted-Pendulum-On-A-Cart
 
-**To check observability and create an optimal linear full state feedback of an Inverted Pendulum on a Cart** 
+**To check observability and create an optimal linear full state feedback of an Inverted Pendulum on a Cart using [Kalman Filter](https://en.wikipedia.org/wiki/Kalman_filter)** 
 
 #### Objectives Achieved: 
 
