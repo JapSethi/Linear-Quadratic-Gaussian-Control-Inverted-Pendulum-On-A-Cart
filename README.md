@@ -23,5 +23,6 @@
 #### Use of each file:
 - **Linear_Quadratic_Gaussian_InvertedPendulum.mlx** - Executable file with clearly defined problem statement and approach
 - **Linear_Quadratic_Gaussian_InvertedPendulum.pdf** - Published Document for a quick check of Solutions and Code
-- **animate_auv.p** - Animation code used throughout the code for easy visual and intuitive check
-- **auv_animate.mp4** - Sample Example of auv motion when animate_auv.p is executed
+- **lqg_cartpend_sim.slx** - Simulink Model for Lqg controller
+- **cartpend.m** - Gives you the linearized equations of motion using Lagrange's equations
+- **drawcartpend_bw.m** - Animation for Easy visual check of the pendulum on the cart when we feed in the data for simulation
