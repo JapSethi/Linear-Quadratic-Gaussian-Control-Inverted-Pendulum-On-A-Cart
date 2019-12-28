@@ -12,7 +12,7 @@
 - Designed Kalman Filter, which is an optimal full-state estimator, given Gaussian white noise disturbances and measurement noise.
 - Combined the optimal full-state feedback LQR with the optimal full-state estimator (LQE or Kalman Filter) to obtain the sensor-based linear quadratic Gaussian (LQG) controller.
 
-<p align="center"><img src="auv_animate.gif">  </p>
+<p align="center"><img src="LQR_Trial.gif">  </p>
 
 
 
