@@ -23,6 +23,6 @@
 #### Use of each file:
 - [**Linear_Quadratic_Gaussian_InvertedPendulum.mlx**](Linear_Quadratic_Gaussian_InvertedPendulum.mlx) - Executable file with clearly defined problem statement and approach
 - **Linear_Quadratic_Gaussian_InvertedPendulum.pdf** - Published Document for a quick check of Solutions and Code
-- **lqg_cartpend_sim.slx** - Simulink Model for Lqg controller
-- **cartpend.m** - Gives you the linearized equations of motion using Lagrange's equations
-- **drawcartpend_bw.m** - Animation for Easy visual check of the pendulum on the cart when we feed in the data for simulation
+- [**lqg_cartpend_sim.slx**](lqg_cartpend_sim.slx) - Simulink Model for Lqg controller
+- [**cartpend.m**](cartpend.m) - Gives you the linearized equations of motion using Lagrange's equations
+- [**drawcartpend_bw.m**](drawcartpend_bw.m) - Animation for Easy visual check of the pendulum on the cart when we feed in the data for simulation
