@@ -1,6 +1,6 @@
-# Linear-Quadratic-Gaussian-Control-Inverted-Pendulum-On-A-Cart
+# <div align="center">Linear-Quadratic-Gaussian-Control-Inverted-Pendulum-On-A-Cart</div>
 
-**To stabilize the full nonlinear system of an Inverted Pendulum on a Cart using combination of [Kalman Filter](https://en.wikipedia.org/wiki/Kalman_filter) and LQR controller** 
+**<div align="center">To stabilize the full nonlinear system of an Inverted Pendulum on a Cart using combination of [Kalman Filter](https://en.wikipedia.org/wiki/Kalman_filter) and LQR controller</div>** 
 
 #### Objectives Achieved: 
 
